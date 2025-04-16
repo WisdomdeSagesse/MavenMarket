@@ -1,4 +1,4 @@
-##Maven Market
+# Maven Market
 
 This project shows the high level performance of a retail store.
 The dashbaord is meant to showcase to a high level executive the topline metrics of the organisation for the current month. 
