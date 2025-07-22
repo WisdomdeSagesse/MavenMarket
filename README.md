@@ -1,4 +1,5 @@
 # Maven Market
+## Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiMjA0OTQwMjQtZjRmMS00NjVkLTlhNTQtMmE3MGQwOTE0ZTJhIiwidCI6IjU3MjY1MmZlLWE3ODgtNGVlMS1hODk2LTdjMzY2NzlmMzgxOCJ9 
 
 This project shows the high level performance of a retail store.
 The dashbaord is meant to showcase to a high level executive the topline metrics of the organisation for the current month. 
